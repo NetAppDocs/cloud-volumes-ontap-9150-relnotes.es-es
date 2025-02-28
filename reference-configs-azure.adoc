@@ -562,4 +562,4 @@ Los pares de ALTA disponibilidad utilizan discos gestionados de Azure. Se admite
 
 == Regiones admitidas
 
-Para obtener soporte de región de Azure, consulte https://cloud.netapp.com/cloud-volumes-global-regions["Regiones globales de Cloud Volumes"^].
+Para obtener soporte de región de Azure, consulte https://bluexp.netapp.com/cloud-volumes-global-regions["Regiones globales de Cloud Volumes"^].
